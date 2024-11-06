@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730903045 source:d:\tugas kuliah\codebloks\asistensi p4\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
